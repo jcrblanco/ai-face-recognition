@@ -66,4 +66,6 @@ Contributing
 
 Feel free to contribute by forking the repository, submitting issues, or suggesting improvements via pull requests. I am always open to feedback and collaboration!
 
-
+Licence
+Usa bajo tu propia responsabilidad
+Usage is by your own
